@@ -16,6 +16,17 @@ reading_skills/
 │   └── c2_reading_techniques.md  (c2.md)
 │
 ├── examples/           # Adaptive ~300-word Mock Exam Passages with Full Questions
+│   ├── ielts_00_index.md                # 🌟 Master Index: 100 Adaptive Topics across 10 Themes
+│   ├── ielts_01_education.md            # Vol 01: Education & Learning (Topics 1–10)
+│   ├── ielts_02_technology.md           # Vol 02: Technology, AI & Digital Life (Topics 11–20)
+│   ├── ielts_03_environment.md          # Vol 03: Environment, Climate & Ecology (Topics 21–30)
+│   ├── ielts_04_health.md               # Vol 04: Health, Medicine & Well-being (Topics 31–40)
+│   ├── ielts_05_work_economy.md         # Vol 05: Work, Economy & Globalization (Topics 41–50)
+│   ├── ielts_06_society_family.md       # Vol 06: Society, Demographics & Modern Culture (Topics 51–60)
+│   ├── ielts_07_crime_law_government.md # Vol 07: Law, Crime & Governance (Topics 61–70)
+│   ├── ielts_08_cities_transport.md     # Vol 08: Cities, Architecture & Infrastructure (Topics 71–80)
+│   ├── ielts_09_culture_globalisation.md# Vol 09: Culture, Heritage & Global Tourism (Topics 81–90)
+│   ├── ielts_10_science_nature.md       # Vol 10: Science, Nature & Space Exploration (Topics 91–100)
 │   ├── b1_examples.md  (b1.md) -> The Rise of Urban Community Gardens (302 words)
 │   ├── b2_examples.md  (b2.md) -> The Mechanics of Habit Formation (308 words)
 │   ├── c1_examples.md  (c1.md) -> The Cognitive Cost of Hyper-Reading (312 words)
