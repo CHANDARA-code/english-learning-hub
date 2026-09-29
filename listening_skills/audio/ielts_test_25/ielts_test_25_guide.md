@@ -1,0 +1,225 @@
+# 🎧 IELTS Listening Recent Actual Test — Practice Test 25
+## វិញ្ញាសាស្តាប់គំរូជាក់ស្តែង IELTS Test 25 ពេញលេញ ៤ ផ្នែក (Sections 1–4)
+
+> **Exam Format:** IELTS Listening (Academic & General Training)  
+> **Total Questions:** 40 Questions (10 per section)  
+> **Total Audio Duration:** ~26 minutes (+ 10 minutes transfer time)  
+> **Target Bands:** Band 4.0 to 9.0 (CEFR B1 · B2 · C1 · C2)  
+> **Local Audio Folder:** [ielts_test_25](file:///Users/chandara-dgc/Documents/learn-english/listening_skills/audio/ielts_test_25/)  
+
+---
+
+## 🗂️ Test Navigation & Local Audio Tracks
+
+| Section | Topic | Context & Speakers | Audio Duration | Local MP3 Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **Section 1** | **Company Picnic Planning & Catering Services** | Organizers Cindy and Bob comparing caterer quotes, menus, and booking times | 4m 40s | [section1.mp3](file:///Users/chandara-dgc/Documents/learn-english/listening_skills/audio/ielts_test_25/section1.mp3) |
+| **Section 2** | **Legal Advice, Police Interactions & Social Rules** | Community advisor explaining legal aid rights, police encounters, and alcohol laws | 6m 42s | [section2.mp3](file:///Users/chandara-dgc/Documents/learn-english/listening_skills/audio/ielts_test_25/section2.mp3) |
+| **Section 3** | **Public Speaking Strategies & Panel Advice** | Four presenters (Carlos, David, Melissa, Simona) sharing presentation techniques | 7m 24s | [section3.mp3](file:///Users/chandara-dgc/Documents/learn-english/listening_skills/audio/ielts_test_25/section3.mp3) |
+| **Section 4** | **Celtic Archaeology: Hallstatt & La Tène Cultures** | History & archaeology lecture on European Iron Age trade, migration, and graves | 7m 20s | [section4.mp3](file:///Users/chandara-dgc/Documents/learn-english/listening_skills/audio/ielts_test_25/section4.mp3) |
+
+---
+
+## 📝 SECTION 1 (Questions 1–10)
+🎧 **Track:** [section1.mp3](file:///Users/chandara-dgc/Documents/learn-english/listening_skills/audio/ielts_test_25/section1.mp3)
+
+### Questions 1–4
+*Answer the questions below using **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer.*
+
+- **1.** How many people are Cindy and Bob planning the picnic for?  
+  ________________________  
+- **2.** On which date will the picnic be held?  
+  ________________________  
+- **3.** What is the total budget for food and drink per person?  
+  £ ________________________  
+- **4.** Which food does Bob specifically say is unsuitable?  
+  ________________________  
+
+### Questions 5–8
+*Complete the notes about the three catering companies.*  
+*Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer.*
+
+```
+                     CATERING COMPANY COMPARISON
+
+Paris Kitchen:
+• Lack of variety of food
+• Poor quality 5. ________________________
+
+Company Caterers:
+• Rather expensive
+• 6. ________________________ discount offered for groups of 30 or more
+
+Celebrations:
+• New company
+• Only provides 7. ________________________ for picnics
+• Includes special 8. ________________________ dishes
+• Offers complimentary tasting samples
+```
+
+### Questions 9–10
+*Answer the questions using **ONE WORD OR A TELEPHONE NUMBER**.*
+
+- **9.** When will Bob and Cindy go to Celebrations?  
+  ________________________  
+- **10.** What is Celebrations' telephone number?  
+  ________________________  
+
+---
+
+## 📝 SECTION 2 (Questions 11–20)
+🎧 **Track:** [section2.mp3](file:///Users/chandara-dgc/Documents/learn-english/listening_skills/audio/ielts_test_25/section2.mp3)
+
+### Questions 11–12
+*Complete the notes on the Citizens Advice Bureau using **NO MORE THAN TWO WORDS** for each answer.*
+
+- Can 11. ________________________ a solicitor
+- Suggest where you can find free legal advice
+- Inform you whether you qualify for 12. ________________________ to cover legal costs
+
+### Questions 13–14
+*Complete the notes on dealing with the police using **NO MORE THAN THREE WORDS** for each answer.*
+
+- Do not be aggressive or attempt to bribe police officers
+- Always ask plain-clothes police officers for a 13. ________________________
+- Provide your true name and address if officially requested
+- Do not sign any document without a solicitor's 14. ________________________
+- You are entitled to make one telephone call
+
+### Questions 15–16
+*Complete the notes on illegal actions using **NO MORE THAN THREE WORDS** for each answer.*
+
+The following actions are strictly illegal:
+- The possession of 15. ________________________
+- To possess or 16. ________________________ illegal drugs
+- Disorderly public conduct
+
+### Questions 17–20
+*Choose **FOUR** letters, **A–H**.*  
+*Which **FOUR** of the following statements are TRUE according to the speaker?*
+
+- **A.** It is socially acceptable to drink large quantities of alcohol in public.  
+- **B.** People frequently arrange to meet socially in bars and pubs.  
+- **C.** Consuming non-alcoholic drinks in bars is socially acceptable.  
+- **D.** You can drink a small amount and still legally drive a vehicle.  
+- **E.** Drinking alcohol anywhere in public streets is completely unrestricted.  
+- **F.** Doctors can legally prescribe patients otherwise controlled medications.  
+- **G.** Individuals must be over 18 years of age to legally purchase alcohol.  
+- **H.** The majority of ordinary citizens actively consume illegal drugs.  
+
+---
+
+## 📝 SECTION 3 (Questions 21–30)
+🎧 **Track:** [section3.mp3](file:///Users/chandara-dgc/Documents/learn-english/listening_skills/audio/ielts_test_25/section3.mp3)
+
+### Questions 21–25
+*Complete the sentences using **NO MORE THAN TWO WORDS** for each answer.*
+
+- **21.** Melissa’s first presentation tip is not to ________________________ late.  
+- **22.** Simona advises that a speaker should never ________________________ to the audience unnecessarily.  
+- **23.** David clarifies that the second "P" in the PGP method stands for ________________________.  
+- **24.** David states that PGP will ________________________ and promote audience retention.  
+- **25.** Carlos offers a fundamental rule for public speaking: know your ________________________.  
+
+### Questions 26–30
+*Identify which speaker is being referred to in each statement.*  
+*Write the corresponding letter, **A**, **B**, **C**, or **D**, next to questions 26–30.*
+
+> **A** Carlos  
+> **B** David  
+> **C** Melissa  
+> **D** Simona  
+
+- **26.** Believes that an overhead projector is usually necessary: ________  
+- **27.** Mentions that jokes can be effective when used in proper context: ________  
+- **28.** Emphasizes that the question-and-answer session is critically important: ________  
+- **29.** Suggests that concluding slightly early is often advantageous: ________  
+- **30.** Advises presenters to ensure they stay adequately hydrated: ________  
+
+---
+
+## 📝 SECTION 4 (Questions 31–40)
+🎧 **Track:** [section4.mp3](file:///Users/chandara-dgc/Documents/learn-english/listening_skills/audio/ielts_test_25/section4.mp3)
+
+### Questions 31–33
+*Answer the questions using **NO MORE THAN ONE WORD OR A DATE** for each answer.*
+
+- **31.** Which metal were the ancient Celts working at the beginning of the first millennium B.C.?  
+  ________________________  
+- **32.** In what year did formal excavations at Hallstatt commence?  
+  ________________________  
+- **33.** When were the major Celtic artifacts near La Tène uncovered?  
+  ________________________  
+
+### Questions 34–37
+*Answer the questions about Hallstatt culture using **NO MORE THAN THREE WORDS OR A NUMBER** for each answer.*
+
+- **34.** How many distinct developmental stages of Hallstatt culture were identified?  
+  ________________________  
+- **35.** Which two materials were traded across long distances during early Hallstatt?  
+  ________________________  
+- **36.** Where were principal settlements constructed during the Hallstatt C period?  
+  ________________________  
+- **37.** What primary economic activity fostered a highly stratified society?  
+  ________________________  
+
+### Questions 38–40
+*Complete the sentences about La Tène culture using **NO MORE THAN THREE WORDS** for each answer.*
+
+- **38.** Major Celtic ________________________ expanded across Europe during the La Tène period.  
+- **39.** After 400 B.C., artistic styles and weapons of La Tène culture ________________________.  
+- **40.** Distinctive weapons and personal ornaments have been uncovered in La Tène ________________________ across the continent.  
+
+---
+
+## 🔑 Official Answer Key & Scoring Table
+
+| Section 1 (Q1–10) | Section 2 (Q11–20) | Section 3 (Q21–30) | Section 4 (Q31–40) |
+| :--- | :--- | :--- | :--- |
+| **1.** 50 *(or fifty)* | **11.** recommend | **21.** show up | **31.** iron |
+| **2.** 26th August | **12.** legal aid | **22.** apologise *(or apologize)* | **32.** 1876 |
+| **3.** 15 | **13.** form of identification | **23.** Particular | **33.** 1858 |
+| **4.** ice cream *(or ice-cream)* | **14.** advice *(or advise)* | **24.** draw attention | **34.** 4 *(or four / four stages)* |
+| **5.** wine | **15.** (offensive) weapons | **25.** audience | **35.** copper and tin |
+| **6.** 10% *(or 10 percent)* | **16.** supply *(or supply hard)* | **26.** D | **36.** hilltop |
+| **7.** cold meals | **17–20.** B, C, F, G | **27.** C | **37.** luxury trade |
+| **8.** vegetarian | *(in any order)* | **28.** A | **38.** expansion and migration |
+| **9.** Thursday | | **29.** C | **39.** spread rapidly |
+| **10.** 28653479 | | **30.** A | **40.** graves |
+
+---
+
+## 📊 IELTS Band Score to CEFR Conversion Guide
+
+| Score (/40) | IELTS Band | CEFR Level | Listening Competence Profile |
+| :--- | :--- | :--- | :--- |
+| **35–40** | **Band 8.5–9.0** | **C2 (Proficiency)** | Handles complex academic monologues, abstract terminology, rapid speech, and subtle irony with near-native precision. |
+| **30–34** | **Band 7.0–8.0** | **C1 (Advanced)** | Comprehends extended technical lectures, complex conditionals, and fast dialogue across unfamiliar accents. |
+| **23–29** | **Band 5.5–6.5** | **B2 (Upper Intermediate)** | Tracks main ideas, specific factual details, numbers, dates, and signposting across conversational and semi-academic formats. |
+| **16–22** | **Band 4.5–5.0** | **B1 (Intermediate)** | Understands clear standard speech on familiar everyday matters (hotel bookings, directions, travel timetables). |
+
+---
+
+## 🎯 ការវិភាគអន្ទាក់ស្តាប់សំខាន់ៗ (Acoustic Decoding Traps)
+
+1. **Section 1 — អន្ទាក់កាលបរិច្ឆេទ មុខម្ហូប និងលេខទូរស័ព្ទ (Catering Inquiries & Numbers):**
+   - សំណួរ ២ កាលបរិច្ឆេទនៃពិធីកម្សាន្ត៖ *"26th August"* — ត្រូវប្រយ័ត្នការកត់ត្រាថ្ងៃខែឱ្យបានច្បាស់លាស់។
+   - សំណួរ ៤ មុខម្ហូបដែលមិនសមស្រប៖ ការ៉េម (*ice cream*) ព្រោះវាងាយរលាយនៅពេលយកទៅកម្សាន្តក្រៅផ្ទះ។
+   - សំណួរ ៦ ការបញ្ចុះតម្លៃ ១០% (*10% / 10 percent*) សម្រាប់ក្រុមចាប់ពី ៣០ នាក់ឡើងទៅ។
+   - សំណួរ ១០ លេខទូរស័ព្ទ៖ *"28653479"* — ត្រូវស្តាប់ការបញ្ចេញសំឡេងលេខជាភាសាអង់គ្លេសល្បឿនធម្មតា។
+
+2. **Section 2 — អន្ទាក់សិទ្ធិផ្លូវច្បាប់ និងច្បាប់គ្រឿងស្រវឹង (Legal Rights & True Statement Selection):**
+   - សំណួរ ១៣ ស្នើសុំឯកសារបញ្ជាក់អត្តសញ្ញាណ (*form of identification*) ពីប៉ូលិសដែលស្លៀកពាក់ស៊ីវិល។
+   - សំណួរ ១៤ កុំចុះហត្ថលេខាលើអ្វីទាំងអស់ដោយគ្មានការផ្តល់យោបល់ពីមេធាវី (*solicitor's advice*)។
+   - សំណួរ ១៧ ដល់ ២០ សេចក្តីពិតទាំងបួន៖ ការជួបគ្នានៅបារជាទម្លាប់សង្គមទូទៅ (B), ការទទួលទានភេសជ្ជៈគ្មានជាតិស្រវឹងនៅបារគឺជាការទទួលយកបាន (C), គ្រូពេទ្យអាចចេញវេជ្ជបញ្ជាឱសថមួយចំនួនដែលច្បាប់ហាមឃាត់ទូទៅបាន (F), និងបុគ្គលត្រូវមានអាយុលើសពី ១៨ ឆ្នាំដើម្បីទិញគ្រឿងស្រវឹង (G)។
+
+3. **Section 3 — អន្ទាក់ការផ្គូផ្គងអ្នកជំនាញនិយាយជាសាធារណៈ (Speaker Identification):**
+   - សំណួរ ២២ Simona ណែនាំថាមិនត្រូវសុំទោស (*never apologise*) ទៅកាន់ទស្សនិកជនដោយគ្មានហេតុផលចាំបាច់ឡើយ។
+   - សំណួរ ២៦ Simona យល់ឃើញថាម៉ាស៊ីនបញ្ចាំង overhead projector គឺចាំបាច់ (D)។
+   - សំណួរ ២៨ និង ៣០ Carlos ផ្តោតសំខាន់លើវគ្គសំណួរ-ចម្លើយ Q&A និងការទទួលទានទឹកឱ្យបានគ្រប់គ្រាន់ (A)។
+
+4. **Section 4 — អន្ទាក់ប្រវត្តិសាស្ត្របុរាណវិទ្យា Celtic (Archaeological Chronology & Stratification):**
+   - សំណួរ ៣១ លោហៈធាតុដែលជនជាតិ Celtic ប្រើប្រាស់នៅដើមសហស្សវត្សរ៍ទី ១ មុន គ.ស គឺដែក (*iron*)។
+   - សំណួរ ៣២ និង ៣៣ កាលបរិច្ឆេទកំណាយបុរាណវិទ្យា៖ Hallstatt នៅឆ្នាំ ១៨៧៦ (*1876*) និង La Tène នៅឆ្នាំ ១៨៥៨ (*1858*)។
+   - សំណួរ ៣៧ ពាណិជ្ជកម្មទំនិញប្រណីត (*luxury trade*) គឺជាកត្តាជំរុញឱ្យកើតមានការបែងចែកវណ្ណៈក្នុងសង្គម។
+   - សំណួរ ៤០ អាវុធ និងគ្រឿងតុបតែងត្រូវបានរកឃើញក្នុងផ្នូរសព (*graves*) ទូទាំងទ្វីបអឺរ៉ុប។
