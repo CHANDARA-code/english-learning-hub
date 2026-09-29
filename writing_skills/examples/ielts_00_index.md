@@ -1,7 +1,7 @@
-# 📝 IELTS Writing Task 2 — 100 Mock Topics with Model Answers (B1–C2)
-## ប្រធានបទប្រឡង IELTS សរសេរ ១០០ ជាមួយចម្លើយគំរូ កម្រិត B1–C2
+# 📝 IELTS Writing Task 2 — 120 Mock Topics with Model Answers (B1–C2)
+## ប្រធានបទប្រឡង IELTS សរសេរ ១២០ ជាមួយចម្លើយគំរូ កម្រិត B1–C2
 
-> **100 exam-style questions × 4 levels = 400 model essays + 400 model paragraphs.**
+> **120 exam-style questions × 4 levels = 480 model essays + 480 model paragraphs.**
 > These are **original practice questions** written in the style of IELTS Writing Task 2, on themes that appear often in the exam. They are **not official IELTS past papers**.
 
 ---
@@ -13,8 +13,8 @@
 3. [How each topic is organised](#3-how-each-topic-is-organised)
 4. [How to study with this bank](#4-how-to-study-with-this-bank)
 5. [The five question types](#5-the-five-question-types)
-6. [The ten themes](#6-the-ten-themes)
-7. [All 100 topics](#7-all-100-topics)
+6. [The twelve themes](#6-the-twelve-themes)
+7. [All 120 topics](#7-all-120-topics)
 
 ---
 
@@ -75,15 +75,15 @@ Every one of the 100 topics has the same structure:
 
 | Type | How to recognise it | What your essay must do | Count | See an example |
 | :-- | :-- | :-- | :-- | :-- |
-| **Opinion** (agree / disagree) | *To what extent do you agree or disagree?* | Give a clear position in the introduction and keep it to the end | 32 | [Topic 1](ielts_01_education.md#1-free-university-education) |
-| **Discussion** | *Discuss both views and give your own opinion.* | Explain **both** views fairly, then give **your** view | 22 | [Topic 4](ielts_01_education.md#4-single-sex-or-mixed-schools) |
-| **Advantages and disadvantages** | *What are the advantages and disadvantages?* / *Do the advantages outweigh…?* | Cover both sides; for "outweigh", say clearly which side is stronger | 13 | [Topic 3](ielts_01_education.md#3-studying-abroad) |
-| **Problem and solution** | *What are the causes / problems… and what can be done?* | Explain the causes or problems, then match a solution to each | 18 | [Topic 7](ielts_01_education.md#7-teenagers-leaving-school-early) |
-| **Two-part question** | Two direct questions, e.g. *Why is this happening? Is it positive or negative?* | Answer **both** questions fully, usually one body paragraph for each | 15 | [Topic 9](ielts_01_education.md#9-taking-a-gap-year) |
+| **Opinion** (agree / disagree) | *To what extent do you agree or disagree?* | Give a clear position in the introduction and keep it to the end | 38 | [Topic 1](ielts_01_education.md#1-free-university-education) |
+| **Discussion** | *Discuss both views and give your own opinion.* | Explain **both** views fairly, then give **your** view | 27 | [Topic 4](ielts_01_education.md#4-single-sex-or-mixed-schools) |
+| **Advantages and disadvantages** | *What are the advantages and disadvantages?* / *Do the advantages outweigh…?* | Cover both sides; for "outweigh", say clearly which side is stronger | 15 | [Topic 3](ielts_01_education.md#3-studying-abroad) |
+| **Problem and solution** | *What are the causes / problems… and what can be done?* | Explain the causes or problems, then match a solution to each | 22 | [Topic 7](ielts_01_education.md#7-teenagers-leaving-school-early) |
+| **Two-part question** | Two direct questions, e.g. *Why is this happening? Is it positive or negative?* | Answer **both** questions fully, usually one body paragraph for each | 18 | [Topic 9](ielts_01_education.md#9-taking-a-gap-year) |
 
 ---
 
-## 6. The ten themes
+## 6. The twelve themes
 
 | # | Theme | Topics | File |
 | :-- | :-- | :-- | :-- |
@@ -97,10 +97,12 @@ Every one of the 100 topics has the same structure:
 | 08 | Cities, Housing and Transport · ទីក្រុង លំនៅដ្ឋាន និងការដឹកជញ្ជូន | 71–80 | [ielts_08_cities_transport.md](ielts_08_cities_transport.md) |
 | 09 | Culture, Tourism and Globalisation · វប្បធម៌ ទេសចរណ៍ និងសកលភាវូបនីយកម្ម | 81–90 | [ielts_09_culture_globalisation.md](ielts_09_culture_globalisation.md) |
 | 10 | Science, Nature and the Future · វិទ្យាសាស្ត្រ ធម្មជាតិ និងអនាគត | 91–100 | [ielts_10_science_nature.md](ielts_10_science_nature.md) |
+| 11 | Psychology, Mental Health & Modern Lifestyle · ចិត្តវិទ្យា សុខភាពផ្លូវចិត្ត និងរបៀបរស់នៅសម័យទំនើប | 101–110 | [ielts_11_psychology_lifestyle.md](ielts_11_psychology_lifestyle.md) |
+| 12 | Global Development, International Aid & Ethics · ការអភិវឌ្ឍសកល ជំនួយអន្តរជាតិ និងសីលធម៌ | 111–120 | [ielts_12_global_development.md](ielts_12_global_development.md) |
 
 ---
 
-## 7. All 100 topics
+## 7. All 120 topics
 
 ### 01 · Education
 
@@ -251,6 +253,36 @@ Every one of the 100 topics has the same structure:
 | 98 | [Have Inventions Made Life More Complicated](ielts_10_science_nature.md#98-have-inventions-made-life-more-complicated) | Opinion |
 | 99 | [Artificial Intelligence in Healthcare](ielts_10_science_nature.md#99-artificial-intelligence-in-healthcare) | Advantages and disadvantages |
 | 100 | [Spending Less Time in Nature](ielts_10_science_nature.md#100-spending-less-time-in-nature) | Two-part question |
+
+### 11 · Psychology, Mental Health & Modern Lifestyle
+
+| # | Topic | Question type |
+| :-- | :-- | :-- |
+| 101 | [Constant Connectivity and Work-Life Boundary](ielts_11_psychology_lifestyle.md#101-constant-connectivity-and-work-life-boundary) | Opinion |
+| 102 | [Loneliness and Social Isolation in Modern Cities](ielts_11_psychology_lifestyle.md#102-loneliness-and-social-isolation-in-modern-cities) | Problem and solution |
+| 103 | [Cosmetic Procedures and Beauty Standards](ielts_11_psychology_lifestyle.md#103-cosmetic-procedures-and-beauty-standards) | Discussion |
+| 104 | [Material Possessions and Genuine Happiness](ielts_11_psychology_lifestyle.md#104-material-possessions-and-genuine-happiness) | Two-part question |
+| 105 | [The Four-Day Working Week](ielts_11_psychology_lifestyle.md#105-the-four-day-working-week) | Advantages and disadvantages |
+| 106 | [Parenting Styles and Independence](ielts_11_psychology_lifestyle.md#106-parenting-styles-and-independence) | Opinion |
+| 107 | [Modern Lifestyles and Chronic Sleep Deprivation](ielts_11_psychology_lifestyle.md#107-modern-lifestyles-and-chronic-sleep-deprivation) | Problem and solution |
+| 108 | [Social Media Influencers and Youth Wellbeing](ielts_11_psychology_lifestyle.md#108-social-media-influencers-and-youth-wellbeing) | Discussion |
+| 109 | [Mindfulness and Emotional Education in Schools](ielts_11_psychology_lifestyle.md#109-mindfulness-and-emotional-education-in-schools) | Opinion |
+| 110 | [Fear of Missing Out and Consumer Culture](ielts_11_psychology_lifestyle.md#110-fear-of-missing-out-and-consumer-culture) | Two-part question |
+
+### 12 · Global Development, International Aid & Ethics
+
+| # | Topic | Question type |
+| :-- | :-- | :-- |
+| 111 | [Direct Financial Aid vs. Technical Assistance](ielts_12_global_development.md#111-direct-financial-aid-vs-technical-assistance) | Discussion |
+| 112 | [Brain Drain: Skilled Migration from Developing Countries](ielts_12_global_development.md#112-brain-drain-skilled-migration-from-developing-countries) | Problem and solution |
+| 113 | [Universal Basic Income as a Human Right](ielts_12_global_development.md#113-universal-basic-income-as-a-human-right) | Advantages and disadvantages |
+| 114 | [Global Language Dominance and Indigenous Languages](ielts_12_global_development.md#114-global-language-dominance-and-indigenous-languages) | Discussion |
+| 115 | [Corporate Social Responsibility in Developing Nations](ielts_12_global_development.md#115-corporate-social-responsibility-in-developing-nations) | Opinion |
+| 116 | [Fast Fashion and Exploitation of Developing World Labor](ielts_12_global_development.md#116-fast-fashion-and-exploitation-of-developing-world-labor) | Problem and solution |
+| 117 | [Global Vaccine and Medicine Equity](ielts_12_global_development.md#117-global-vaccine-and-medicine-equity) | Opinion |
+| 118 | [International Tourism in Vulnerable Indigenous Communities](ielts_12_global_development.md#118-international-tourism-in-vulnerable-indigenous-communities) | Two-part question |
+| 119 | [Space Exploration vs. Poverty Alleviation on Earth](ielts_12_global_development.md#119-space-exploration-vs-poverty-alleviation-on-earth) | Discussion |
+| 120 | [Animal Testing and Moral Obligations](ielts_12_global_development.md#120-animal-testing-and-moral-obligations) | Opinion |
 
 ---
 
